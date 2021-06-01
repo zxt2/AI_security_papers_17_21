@@ -2,15 +2,22 @@
 AI security 四大paper 2017-2021(if any) 分类 约100篇
 格式为：[会议+年份] 论文 (领域or数据集)
 
-# membership inference attacks and model inversion attacks
+membership inference attacks and model inversion attacks
 [USENIX18] AttriGuard- A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning. (Google apps dataset)
+
 [USENIX20] Stolen Memories- Leveraging Model Memorization for Calibrated White-Box Membership Inference. (image)
+
 [USENIX20] Updates-Leak- Data Set Inference and Reconstruction Attacks in Online Learning. (image)
+
 [USENIX21] Stealing Links from Graph Neural Networks. (GNN)
 [USENIX21] Systematic Evaluation of Privacy Risks of Machine Learning Models.
+
 [S&P17] Membership Inference Attacks Against Machine Learning Models.
+
 [S&P19] Comprehensive Privacy Analysis of Deep Learning. (CIFAR)
+
 [S&P19] Exploiting Unintended Feature Leakage in Collaborative Learning. 
+
 [S&P20] Privacy Risks of General-Purpose Language Models. (NLP)
 [S&P21] Machine Unlearning.
 [NDSS19] MBeacon- Privacy-Preserving Beacons for DNA Methylation Data.
