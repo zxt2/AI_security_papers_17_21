@@ -4,7 +4,7 @@ AI security 四大paper 2017-2021(if any) 分类 约100篇
 
 格式为：[会议+年份] 论文 (领域or数据集)
 
-# membership inference attacks and model inversion attacks
+# Membership inference attacks and model inversion attacks
 
 [USENIX18] AttriGuard- A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning. (Google apps dataset)
 
@@ -109,7 +109,7 @@ AI security 四大paper 2017-2021(if any) 分类 约100篇
 [CCS20] Goa Catch ’Em All- Using Honeypots to Catch Adversarial Aacks on Neural Networks.
 
 
-# backdoor
+# Backdoor
 
 [USENIX18] Turning Your Weakness Into a Strength- Watermarking Deep Neural Networks by Backdooring. (image)
 
@@ -135,7 +135,7 @@ AI security 四大paper 2017-2021(if any) 分类 约100篇
 
 
 
-# poisoning attacks
+# Poisoning attacks
 
 [USENIX18] When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks.
 
@@ -156,7 +156,7 @@ AI security 四大paper 2017-2021(if any) 分类 约100篇
 [CCS20] A Tale of Evil Twins- Adversarial Inputs versus Poisoned Models.
 
 
-# evasion attacks
+# Evasion attacks
 
 [USENIX19] Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features. (PDF malware detection)
 
@@ -169,7 +169,7 @@ AI security 四大paper 2017-2021(if any) 分类 约100篇
 [CCS19] AdVersarial- Perceptual Ad Blocking meets Adversarial Machine Learning.
 
 
-# model extraction attacks
+# Model extraction attacks
 
 [USENIX20] Exploring Connections Between Active Learning and Model Extraction.
 
@@ -200,7 +200,7 @@ AI security 四大paper 2017-2021(if any) 分类 约100篇
 
 
 
-# others
+# Others
 
 [USENIX18] With Great Training Comes Great Vulnerability- Practical Attacks against Transfer Learning.
 
