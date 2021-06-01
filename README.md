@@ -1,6 +1,6 @@
 # AI_security_papers_17_21
 
-AI security 四大paper 2017-2021(if any) 分类 约100篇
+AI security 2017-2021(if any) 信息安全四大相关papers 分类 约100篇
 
 格式为：[会议+年份] 论文 (领域or数据集)
 
